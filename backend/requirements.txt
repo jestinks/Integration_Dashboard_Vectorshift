@@ -1,0 +1,10 @@
+fastapi==0.115.12
+uvicorn==0.21.0
+python-multipart==0.0.20
+httpx==0.24.1
+redis==4.6.0
+requests==2.32.3
+python-jose==3.3.0
+pydantic==2.10.6
+starlette==0.46.1
+python-dotenv==1.0.1
